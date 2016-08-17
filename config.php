@@ -1,7 +1,7 @@
 <?php
 $host="222.52.118.90";
 $db_user="root";
-$db_pass="bs2691000";
+$db_pass="root";
 $db_name="newssystem";
 $timezone="Asia/Shanghai";
 $link=mysql_connect($host,$db_user,$db_pass);
